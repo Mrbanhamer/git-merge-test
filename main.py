@@ -1,1 +1,3 @@
-#hubba hubba
+# main.py
+
+name = 'nicklas'
