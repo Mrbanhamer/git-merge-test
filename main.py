@@ -1,2 +1,3 @@
-#hubba hubba
-password = 'g23548yg7'
+# main.py
+
+name = 'nicklas'
